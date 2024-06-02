@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const puerto = 2006;
+const puert = 2006;
 const cors = require("cors");
 
 const {getComicMarvel, getComicMarvelById} = require ("./controllers/marvel.controllers");
@@ -16,6 +16,6 @@ app.get("/", getComicMarvelById);
 
 
 
-app.listen(puerto, ()=>{
-    console.log(`servidor ok ${puerto}`)
+app.listen(puert, ()=>{
+    console.log(`servidor ok ${puert}`)
 })
