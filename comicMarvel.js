@@ -3,6 +3,7 @@ const comicMarvel = [
         "id":1,
         "name": "spider-man azul",
         "groups": "the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/s/p/spiderman_azul_a.jpg"
     },
 
@@ -10,6 +11,7 @@ const comicMarvel = [
         "id":2,
         "name":"spider-gwen",
         "groups":"the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/s/p/spidergedon.jpg"
     },
 
@@ -31,6 +33,7 @@ const comicMarvel = [
         "id":5,
         "name":"avengers v/s x-men  vol 2",
         "groups": "the avenger, x-men",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/a/v/avsx_versus_02.jpg"
     },
 
@@ -38,6 +41,7 @@ const comicMarvel = [
         "id":6,
         "name":"the avengers: las gemas del infinito",
         "groups": "the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/a/v/avengers_las_gemas.jpg"
     },
 
@@ -45,6 +49,7 @@ const comicMarvel = [
         "id":7,
         "name":"capitan america: la leyenda viviente",
         "groups": "the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/c/a/capitan_america_leyenda_viviente.jpg"
     },
 
@@ -52,6 +57,7 @@ const comicMarvel = [
         "id":8,
         "name":"capitana carter",
         "groups": "the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/c/a/capitana_carver_la_mujer_fuera_de_tiempo.jpg"
     },
 
@@ -59,6 +65,7 @@ const comicMarvel = [
         "id":9,
         "name":"civil war",
         "groups": "the avengers",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/c/i/civil_war2_vol_01.jpg"
     },
 
@@ -66,6 +73,7 @@ const comicMarvel = [
         "id":10,
         "name":"soy groot",
         "groups": "guardians of galaxy",
+        "price": "19.990",
         "img":"https://www.crazyallcomics.cl/media/catalog/product/cache/23/image/500x400/17f82f742ffe127f42dca9de82fb58b1/s/o/soy_groot.jpg"
     }
 
